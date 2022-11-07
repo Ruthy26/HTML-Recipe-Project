@@ -46,3 +46,9 @@ body  {
     font-size: 45px;
     font-family: monospace;
 }
+
+.sub-border {
+    border: 2px solid #E6DBCC;
+    border-radius: 20px;
+    width: 200px;
+}
